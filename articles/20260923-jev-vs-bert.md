@@ -3,7 +3,7 @@ title: "新モデル「Jev」とBERTを比較して整理する ― 「生成し
 emoji: "🤖"
 type: "tech"
 topics: ["AI", "機械学習", "LLM", "BERT", "NLP"]
-published: false
+published: true
 ---
 
 ## TL;DR
